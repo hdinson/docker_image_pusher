@@ -1,2 +1,3 @@
 mzz2017/v2raya:latest
 jxxghp/moviepilot:latest
+teddysun/xray
