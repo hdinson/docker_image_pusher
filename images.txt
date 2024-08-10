@@ -1,1 +1,1 @@
---platform=linux/arm64 teddysun/xray:latest
+teddysun/xray:latest
