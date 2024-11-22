@@ -1,2 +1,3 @@
 teddysun/xray:latest
 jxxghp/moviepilot-v2:latest
+eclipse-mosquitto:latest
