@@ -1,3 +1,1 @@
-teddysun/xray:latest
-jxxghp/moviepilot-v2:latest
-eclipse-mosquitto:latest
+carfactory/car_apk_manager:latest
