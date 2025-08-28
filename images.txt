@@ -1,1 +1,2 @@
 carfactory/car_apk_manager:latest
+amilys/embyserver:latest
