@@ -1,4 +1,4 @@
 carfactory/car_apk_manager:latest
 amilys/embyserver:latest
-php:8.2-fpm
+php:5.6-fpm
 jc21/nginx-proxy-manager:latest
