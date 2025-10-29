@@ -3,3 +3,4 @@ amilys/embyserver:latest
 php:5.6-fpm
 jc21/nginx-proxy-manager:latest
 nginx:alpine
+wordpress:latest
