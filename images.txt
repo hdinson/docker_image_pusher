@@ -1,1 +1,2 @@
 teddysun/xray:latest
+catthehacker/ubuntu:act-latest
