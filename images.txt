@@ -2,3 +2,4 @@ teddysun/xray:latest
 catthehacker/ubuntu:act-latest
 library/node:24
 library/python:3.13-slim
+node:22-bookworm
